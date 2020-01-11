@@ -1,10 +1,2 @@
-# wtf-gulp-starter
+# Page that retrieves data from the GitHub API
 
-`npm install -g gulp-cli`
-
-`npm install`
-
-`gulp`
-
-To publish your page using github pages use `npm run deploy`
-"# githubapi" 
